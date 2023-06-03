@@ -1,7 +1,7 @@
 import React from "react";
-import { Howl } from "howler";
 import { alphabet } from "../../data/alphabet";
 import "./Alphabet.css";
+import { Howl } from "howler";
 
 const Alphabet = () => {
   const playSound = (src) => {

@@ -67,3 +67,5 @@ export const alphabet = [
   { letter: "Ю", word: "Юла", sound: yu, color: "#e854d4" },
   { letter: "Я", word: "Яблоко", sound: ya, color: "#e854d4" },
 ];
+
+
